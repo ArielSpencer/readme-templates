@@ -1,3 +1,6 @@
+![Static Badge](https://img.shields.io/badge/Ariel%20Spencer-Readme%20Templates-%239377be) ![GitHub License](https://img.shields.io/github/license/arielspencer/readme-templates) [![Traduzir para Português](https://img.shields.io/badge/Traduzir%20Para-🇧🇷%20Portuguese-%23f5bb55)](simple-page-pt-br.md)
+
+<br/><br/>
 <p align="center">
     <img src="../images/logo.png" width="200px">
 </p>
