@@ -18,9 +18,10 @@ Templates de README para estruturar informações sobre projetos em repositório
 ## 📚 Índice
 
 - [Sobre](#sobre)
-- [Como Usar](#como-usar)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+- [Como Usar](#👾-como-usar)
+- [Contribuição](#🧑‍🤝‍🧑-contribuições)
+- [Desenvolvedor](#☕️-desenvolvido-por)
+- [Licença](#📝-licença)
 
 ## Sobre
 

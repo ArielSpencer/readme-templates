@@ -15,12 +15,13 @@
 
 Templates for README files to structure project information in repositories.
 
-## 📚 Table of Contents
+## 📚 Index
 
 - [About](#about)
-- [How to Use](#how-to-use)
-- [Contributions](#contributions)
-- [License](#license)
+- [How to Use](#👾-how-to-use)
+- [Contributions](#🧑‍🤝‍🧑-contributions)
+- [Developer](#☕️-developed-by)
+- [License](#📝-license)
 
 ## About
 

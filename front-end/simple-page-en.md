@@ -25,7 +25,7 @@
     <img src="../images/screenshot.png" alt="Image Example" width="400px">
 </p>
 
-## 📚 Table of Contents
+## 📚 Index
 
 - [Description](#📝-description)
 - [Technologies](#👾-technologies)
