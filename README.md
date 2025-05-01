@@ -18,6 +18,7 @@ Templates for README files to structure project information in repositories.
 ## 📚 Index
 
 - [About](#about)
+- [Available Templates](#🎯-available-templates)
 - [How to Use](#👾-how-to-use)
 - [Contributions](#🧑‍🤝‍🧑-contributions)
 - [Developer](#☕️-developed-by)
@@ -27,12 +28,58 @@ Templates for README files to structure project information in repositories.
 
 Welcome to your new best friend for README files! This repository aims to gather a collection of templates to help developers present their projects in an organized and professional manner.
 
+## 🎯 Available Templates
+
+### 🎨 Front-end Projects
+Perfect for web applications, SPAs, and UI projects:
+- **Simple Page Template** - Basic template for front-end projects
+- Technologies covered: React, HTML5, CSS3, JavaScript, TailwindCSS
+
+### ⚙️ Back-end Projects
+Ideal for APIs, servers, and backend services:
+- **Simple Page Template** - Basic template for back-end projects
+- Technologies covered: Node.js, TypeScript, Express.js, PostgreSQL, Docker
+
+### 📁 Template Structure
+```
+├── front-end/
+│   ├── simple-page-en.md
+│   └── simple-page-pt-br.md
+├── back-end/
+│   ├── simple-page-en.md
+│   └── simple-page-pt-br.md
+└── images/
+    ├── logo.png
+    ├── readme-templates-logo.png
+    └── screenshot.png
+```
+
 ## 👾 How to Use
 
-1. Navigate to the desired folder.
+1. Navigate to the desired folder (`front-end` or `back-end`).
 2. Copy the template you like best.
 3. Customize it as needed.
 4. Save the file as `README.md` in the root directory of your project.
+
+### Quick Start
+
+**For Front-end Projects:**
+```bash
+# Copy English template
+curl -o README.md https://raw.githubusercontent.com/ArielSpencer/readme-templates/main/front-end/simple-page-en.md
+
+# Copy Portuguese template
+curl -o README.md https://raw.githubusercontent.com/ArielSpencer/readme-templates/main/front-end/simple-page-pt-br.md
+```
+
+**For Back-end Projects:**
+```bash
+# Copy English template
+curl -o README.md https://raw.githubusercontent.com/ArielSpencer/readme-templates/main/back-end/simple-page-en.md
+
+# Copy Portuguese template
+curl -o README.md https://raw.githubusercontent.com/ArielSpencer/readme-templates/main/back-end/simple-page-pt-br.md
+```
 
 ## 🧑‍🤝‍🧑 Contributions
 
