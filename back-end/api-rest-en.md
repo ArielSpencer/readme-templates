@@ -28,20 +28,20 @@
 
 ## 📚 Index
 
-- [Description](#📝-description)
-- [Features](#✨-features)
-- [Technologies](#👾-technologies)
-- [Installation and Usage](#🚀-installation-and-usage)
-- [API Documentation](#📡-api-documentation)
-- [Authentication](#🔐-authentication)
-- [Database Schema](#🎲-database-schema)
-- [Error Handling](#❌-error-handling)
-- [Rate Limiting](#⚡-rate-limiting)
-- [Monitoring](#📊-monitoring)
-- [Testing](#🧪-testing)
-- [Deployment](#🚢-deployment)
-- [Contributions](#🧑‍🤝‍🧑-contributions)
-- [License](#📝-license)
+- [Description](#-description)
+- [Features](#-features)
+- [Technologies](#-technologies)
+- [Installation and Usage](#-installation-and-usage)
+- [API Documentation](#-api-documentation)
+- [Authentication](#-authentication)
+- [Database Schema](#-database-schema)
+- [Error Handling](#-error-handling)
+- [Rate Limiting](#-rate-limiting)
+- [Monitoring](#-monitoring)
+- [Testing](#-testing)
+- [Deployment](#-deployment)
+- [Contributions](#-contributions)
+- [License](#-license)
 
 ## ✏️ Description
 
