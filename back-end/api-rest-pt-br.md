@@ -28,20 +28,20 @@
 
 ## 📚 Índice
 
-- [Descrição](#📝-descrição)
-- [Funcionalidades](#✨-funcionalidades)
-- [Tecnologias](#👾-tecnologias)
-- [Instalação e Uso](#🚀-instalação-e-uso)
-- [Documentação da API](#📡-documentação-da-api)
-- [Autenticação](#🔐-autenticação)
-- [Schema do Banco de Dados](#🎲-schema-do-banco-de-dados)
-- [Tratamento de Erros](#❌-tratamento-de-erros)
-- [Limitação de Taxa](#⚡-limitação-de-taxa)
-- [Monitoramento](#📊-monitoramento)
-- [Testes](#🧪-testes)
-- [Deploy](#🚢-deploy)
-- [Contribuições](#🧑‍🤝‍🧑-contribuições)
-- [Licença](#📝-licença)
+- [Descrição](#-descrição)
+- [Funcionalidades](#-funcionalidades)
+- [Tecnologias](#-tecnologias)
+- [Instalação e Uso](#-instalação-e-uso)
+- [Documentação da API](#-documentação-da-api)
+- [Autenticação](#-autenticação)
+- [Schema do Banco de Dados](#-schema-do-banco-de-dados)
+- [Tratamento de Erros](#-tratamento-de-erros)
+- [Limitação de Taxa](#-limitação-de-taxa)
+- [Monitoramento](#-monitoramento)
+- [Testes](#-testes)
+- [Deploy](#-deploy)
+- [Contribuições](#-contribuições)
+- [Licença](#-licença)
 
 ## ✏️ Descrição
 

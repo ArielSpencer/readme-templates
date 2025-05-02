@@ -26,17 +26,17 @@
 
 ## 📚 Índice
 
-- [Descrição](#📝-descrição)
-- [Tecnologias](#👾-tecnologias)
-- [Instalação e Uso](#🚀-instalação-e-uso)
-- [Endpoints da API](#📡-endpoints-da-api)
-- [Variáveis de Ambiente](#🔧-variáveis-de-ambiente)
-- [Schema do Banco de Dados](#🎲-schema-do-banco-de-dados)
-- [Autenticação](#🔐-autenticação)
-- [Testes](#🧪-testes)
-- [Docker](#🐳-docker)
-- [Contribuições](#🧑‍🤝‍🧑-contribuições)
-- [Licença](#📝-licença)
+- [Descrição](#-descrição)
+- [Tecnologias](#-tecnologias)
+- [Instalação e Uso](#-instalação-e-uso)
+- [Endpoints da API](#-endpoints-da-api)
+- [Variáveis de Ambiente](#-variáveis-de-ambiente)
+- [Schema do Banco de Dados](#-schema-do-banco-de-dados)
+- [Autenticação](#-autenticação)
+- [Testes](#-testes)
+- [Docker](#-docker)
+- [Contribuições](#-contribuições)
+- [Licença](#-licença)
 
 ## ✏️ Descrição
 

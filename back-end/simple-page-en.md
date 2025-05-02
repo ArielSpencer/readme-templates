@@ -26,17 +26,17 @@
 
 ## 📚 Index
 
-- [Description](#📝-description)
-- [Technologies](#👾-technologies)
-- [Installation and Usage](#🚀-installation-and-usage)
-- [API Endpoints](#📡-api-endpoints)
-- [Environment Variables](#🔧-environment-variables)
-- [Database Schema](#🎲-database-schema)
-- [Authentication](#🔐-authentication)
-- [Testing](#🧪-testing)
-- [Docker](#🐳-docker)
-- [Contributions](#🧑‍🤝‍🧑-contributions)
-- [License](#📝-license)
+- [Description](#-description)
+- [Technologies](#-technologies)
+- [Installation and Usage](#-installation-and-usage)
+- [API Endpoints](#-api-endpoints)
+- [Environment Variables](#-environment-variables)
+- [Database Schema](#-database-schema)
+- [Authentication](#-authentication)
+- [Testing](#-testing)
+- [Docker](#-docker)
+- [Contributions](#-contributions)
+- [License](#-license)
 
 ## ✏️ Description
 
